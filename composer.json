@@ -1,0 +1,15 @@
+{
+    "name": "dawid-bednarz/php-user-activate-token",
+    "description": "Base classes for flexible user activate token logic",
+    "type": "lib",
+    "require": {
+        "php": "^7.2",
+        "dawid-bednarz/php-token": "@dev",
+        "dawid-bednarz/php-user": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "DawBed\\PHPUserActivateToken\\": "lib"
+        }
+    }
+}
