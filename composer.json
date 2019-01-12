@@ -4,7 +4,7 @@
     "type": "lib",
     "require": {
         "php": "^7.2",
-        "dawid-bednarz/php-token": "@dev",
+        "dawid-bednarz/php-token": "dev-master",
         "dawid-bednarz/php-user": "dev-master"
     },
     "autoload": {
